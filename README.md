@@ -27,8 +27,9 @@ npm install
 ```
 
 #### Run in ios emulator
-After following the **Building Projects With Native Code** section for macOS/iOS here: https://facebook.github.io/react-native/docs/getting-started.html the following can be used to run the project in the xtools iOS emulator:
+After following the **Building Projects With Native Code** section for macOS/iOS here: https://facebook.github.io/react-native/docs/getting-started.html and ensuring react-native is installed globally with npm.
 
+the following can be used to run the project in the xtools iOS emulator:
 ```text
 react-native run-ios
 ```
