@@ -1,6 +1,6 @@
 # Opature coding test
 
-![Alt Text](http://www.giphy.com/gifs/3ohs7JdGorZU5XzP32)
+![Alt Text](https://media.giphy.com/media/3ohs7JdGorZU5XzP32/giphy.gif)
 
 ## About
 This took around 12 hours in total over two days, from having never used react-native or redux before through to completion. I have currently only run it using the iphone 6 emulator in Xtools, not android.
