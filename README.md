@@ -34,3 +34,4 @@ the following can be used to run the project in the xtools iOS emulator:
 react-native run-ios
 ```
 
+*Note: The first time running `react-native run-ios` can take a realllly long time! If you hit ctrl+c before it's done it might fail (and keep failing) to build on subsequent attempts*
